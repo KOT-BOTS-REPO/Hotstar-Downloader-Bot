@@ -1,10 +1,6 @@
 class Translation(object):
 
-    START_TEXT = """Hҽʅʅσ 🙋‍♂️! I αɱ α Pσɯҽϝυʅ Hσƚʂƚαɾ URL Uρʅσαԃҽɾ Bσƚ 😎!
-I ƈαɳ ʂυρρσɾƚ Hσƚʂƚαɾ, Gσσɠʅҽ Dɾιʋҽ, αɳԃ ɱυƈԋ ɱσɾҽ Lιɳƙʂ😌!
-Sҽɳԃ Mҽ Aɳყ Dιɾҽƈƚ Dσɯɳʅσαԃ URL Lιɳƙ, I Cαɳ Uρʅσαԃ Tσ Tҽʅҽɠɾαɱ Aʂ Fιʅҽ/Vιԃҽσ!
-Aԃԃҽԃ Pҽɾɱαɳҽɳƚ TԋυɱႦɳαιʅ Sυρρσɾƚ💯😋!!
-Sυρρσɾƚ Gɾσυρ : @TeleRoid14
+    START_TEXT = """Hɪ ɪ Aᴍ  Zᴇᴇ𝟻 , Hᴏᴛsᴛᴀʀ , Sᴜɴᴇxᴛ Dᴏᴡɴʟᴏᴀᴅ Bᴏᴛ ɪ Cᴀɴ Mᴀᴋᴇ Tᴏ Tᴇʟᴇɢʀᴀᴍ Fɪʟᴇs 😉
 """
 
     HELP_USER = """It's not that complicated to use meh! 😅
@@ -19,7 +15,7 @@ Sυρρσɾƚ Gɾσυρ : @TeleRoid14
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 NB : It is Recommended To Use A Custom Thumbnail Because, Some Time Won't Upload The File Without a Custom Thumbnail.
-Support Group : @TeleRoid14
+Support Group : @KOT_REPORS
 """
 
 
